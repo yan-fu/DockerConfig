@@ -1,6 +1,6 @@
 FROM ufoym/deepo
 
-LABEL maintainer="Fu Yan <fuyan1996@outlook.com>"
+LABEL maintainer="xxx <xxx@xxx.com>"
 
 ARG PYCHARM_VERSION=2020.3.2
 ARG PYCHARM_BUILD=203.6682.179
